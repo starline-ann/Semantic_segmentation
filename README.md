@@ -10,4 +10,4 @@ loss, Tversky loss
 
 The report presents a comparative analysis of the results. The best result on test data was obtained with SegNet with BCE loss: IoU metric score = 0.79.
 
-![Alt text](image.png?raw=true "Result")
+![Alt text](Data/image.png?raw=true "Result")
