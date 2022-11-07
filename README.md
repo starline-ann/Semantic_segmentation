@@ -1,5 +1,5 @@
 # Semantic_segmentation
-Semantic segmentation of dermoscopic images. Educational project in Deep Learning School.
+Semantic segmentation of dermoscopic images.
 
 The following architectures of neural networks have been implemented: 
 
